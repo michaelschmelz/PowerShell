@@ -14,3 +14,5 @@ function Test-MrVerboseOutput {
 }
 
 Test-MrVerboseOutput -Verbose
+
+Write-Host "test2"
